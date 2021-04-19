@@ -1,4 +1,4 @@
-<h1 align="center">Application structure for Node.JS and TypeScript</h1>
+<h1 align="center">Application structure to Node.JS and TypeScript</h1>
 
 <!-- E02041 -->
 <p align="center">
@@ -34,7 +34,7 @@
 
 # 📖 Introduction<br>
 
-This repository is an application structure for Node.JS and TypeScript, also contain ESLint and Babel configurations.<br><br>
+This repository is an application structure to Node.JS and TypeScript, also contain ESLint and Babel configurations.<br><br>
 
 # 🌐 Technologies<br>
 
