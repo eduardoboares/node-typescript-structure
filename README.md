@@ -1,4 +1,4 @@
-<h1 align="center">My first email microservice with TypeScript</h1>
+<h1 align="center">Application structure for Node.JS and TypeScript</h1>
 
 <!-- E02041 -->
 <p align="center">
@@ -65,7 +65,7 @@ It restarts target node process when any of required files changes (as standard 
 Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 
 # 🔗 Reference<br>
-FERNANDES, Diego. Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33. Available in: https://www.youtube.com/watch?v=rCeGfFk-uCk. Access in: 16 april 2021.<br><br><br><br><br>
+FERNANDES, Diego. Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33. Available in: https://www.youtube.com/watch?v=rCeGfFk-uCk. Access in: 18 april 2021.<br><br><br><br><br>
 
 <div align="center">
 👉🏼 <a href="https://www.linkedin.com/in/eduardo-pereira-boares/">See my Linkedin</a> 👈🏼
